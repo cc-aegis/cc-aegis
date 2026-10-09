@@ -1,1 +1,1 @@
-[![cc-aegis' GitHub stats](https://github-stats-extended.vercel.app/api?username=cc-aegis)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=cc-aegis&langs_count=5&disable_animations=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=cc-aegis&langs_count=5&disable_animations=true&theme=dark_github)
